@@ -1,1 +1,1 @@
-# explorer-stage-02-viagens
+# explorer-stage-02-flutuar
