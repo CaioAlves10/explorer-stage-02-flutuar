@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@500;700&family=Open+Sans:wght@400;700&display=swap'); /* Fontes Dosis e Open Sans */
+
+body {
+    margin: 0;
+
+    font-family: 'Open Sans', sans-serif;
+}
+
+#hero {
+    width: 626px;
+    margin: 64px  auto 0;
+
+    text-align: center;
+}
+
+#hero img {
+    margin-bottom: 32px;
+}
+
+#hero h1 {
+    font-family: 'Dosis', sans-serif;
+}
