@@ -4,11 +4,17 @@ body {
     margin: 0;
 
     font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 22px;
+
+    color: #828282;
 }
 
 #hero {
     width: 626px;
-    margin: 64px  auto 0;
+    height: 486px;
+    margin: 64px  auto;
 
     text-align: center;
 }
@@ -19,4 +25,57 @@ body {
 
 #hero h1 {
     font-family: 'Dosis', sans-serif;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 40px;
+    margin-bottom: 16px;
+
+    color:  #3F3D56;
+}
+
+#destino {
+    font-weight: 700;
+
+    color: #EE24FF;
+}
+
+#paragrafo-2 {
+    margin: 32px auto;
+    width: 540px;
+}
+
+#hero p span, footer a  {
+    font-weight: 700;
+
+    color:  #3F3D56;
+}
+
+footer {
+    text-align: center;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+footer a:nth-child(2) {
+    margin: 0 42px;
+}
+
+footer div + div {
+    margin: 16px 0 40px;
+}
+
+footer img {
+    width: 100%;
+    position: relative;
+    bottom: -5px;
+}
+
+#line {
+    width: 391px;
+    height: 0;
+    margin: 0 auto;
+
+    border: 1px solid #ECEFF2;
 }
